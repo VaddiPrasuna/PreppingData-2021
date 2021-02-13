@@ -4,4 +4,4 @@ This challenge focusses on topics aggregation,rank,pivot,creating calculated fie
 As the name depicts: 
 Input.xlsx is the Input File provided in the Challenge
 Output.csv is the output generated after performing the transformations in the Tableau Prep
-Flow.tfl is the flow created to solve the problem
+Flow.tfl is the flow created to solve the problem.All the steps are captioned such that the transformations are self-explanatory.
